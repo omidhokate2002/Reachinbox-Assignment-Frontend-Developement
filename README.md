@@ -36,9 +36,7 @@ This assignment involves building a functional web app based on the provided des
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/reachinbox-assignment.git
-cd reachinbox-assignment
-
+git clone https://github.com/omidhokate2002/assignment-associate-frontend-engineer
 ```
 
 Install my-project with npm
